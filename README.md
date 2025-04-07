@@ -4,6 +4,12 @@ Real-time dynamic object measurement using YOLOv4-tiny and OpenCV
 # Dynamic Object Measurement
 
 This project automatically detects objects from a reference image and allows real-time distance and height measurement using YOLOv4-tiny and OpenCV.
+## Example
+
+Here is an example of the live measurement in action:
+
+![Live Measurement Example](live_measurement_example.png)
+
 
 ## Features
 - Automatic reference image capture
