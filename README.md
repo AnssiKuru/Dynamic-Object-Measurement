@@ -39,19 +39,11 @@ Place the files in the same folder as the Python script.
 
 Run the script normally:
 
-bash
-Kopioi
-Muokkaa
-python Dynamic_Object_Measurement.py
+    ```bash
+   python Dynamic_Object_Measurement.py
+
 Follow the on-screen instructions:
 
-Move into the camera view and wait 10 seconds.
-
-Input the real-world distance, height, and width of the detected object.
-
-Live measurement will start automatically.
-
-Press q to quit the live measurement.
 
 Example
 Here is an example of live measurement in action:
